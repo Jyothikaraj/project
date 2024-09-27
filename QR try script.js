@@ -9,9 +9,9 @@ const onGenerateSubmit = (e) => {
     const url = document.getElementById('url').ariaValueMax;
     const size = document.getElementById('size').ariaValueMax;
 
-//if(url=='') {
-   // alert('Please enter a URL')
-//} 
+if(url=='') {
+alert('Please enter a URL')
+} 
 };
 
 setTimeout (() => {

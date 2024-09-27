@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+    padding-top: 50px;
+}
+
+header {
+    background-color: #ff6347;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    margin-top: 20px;
+}
+
+#offer-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 400px;
+}
+
+#offer-section h2 {
+    color: #ff6347;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+#time-left {
+    font-weight: bold;
+    color: #ff6347;
+}
